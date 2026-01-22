@@ -1,0 +1,7 @@
+1. A small number of products generate a large portion of total revenue, showing a clear 80/20 sales pattern.
+
+2. Certain music genres contribute significantly more to revenue, indicating strong customer preference for specific categories.
+
+3. Some customers have never placed any orders, which presents an opportunity for targeted marketing and re-engagement campaigns.
+
+4. Revenue is concentrated in a few countries, helping the business identify its strongest geographic markets.
